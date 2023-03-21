@@ -1,0 +1,48 @@
+body{
+    height: 3000px;
+    padding-top: 50px;
+    padding-left: 80px;
+}
+.div0{
+    background: magenta;
+    color:white;
+    position: fixed;
+   height: 50px;
+   left: 0;
+   right: 0;
+   top: 0;
+}
+.div1{
+    height: 200px;
+    width: 200px;
+    background: palegreen;
+position: relative;
+}
+.time{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+.div2{
+    height: 200px;
+    width: 200px;
+    background:blueviolet; 
+    
+}
+.side-bar{
+    background: yellow;
+    position: fixed;
+    top: 50px;
+    bottom: 0;
+    left: 0;
+    width: 80px;
+}
+.side-content{
+    background: red;
+    position: absolute;
+    width: 80px;
+    left: 0;
+    top: 70px;
+
+}
